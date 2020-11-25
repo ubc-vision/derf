@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+
 ### Paper
 [![Paper Preview](paper.png)](paper.pdf)
 
