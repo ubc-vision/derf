@@ -1,9 +1,4 @@
 ### Paper
-<style>
-img video {
-  width: 100%;
-}
-</style>
 [![Paper Preview](paper.png)](paper.pdf)
 
 ### Abstract
