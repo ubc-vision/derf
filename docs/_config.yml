@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: "DeRF: Decomposed Radiance Fields"
 github:
   is_project_page: false
