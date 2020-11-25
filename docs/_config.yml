@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: "DeRF: Decomposed Radiance Fields"
-logo: teaser.png
+logo: teaser.gif
 github:
   is_project_page: false
   
