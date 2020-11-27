@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
 
 ### Paper
-[![Paper Preview](paper.png)](paper.pdf)
+[![Paper Preview](paper.png)](https://arxiv.org/pdf/2011.12490.pdf)
 
 ### Abstract
 
