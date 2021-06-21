@@ -1,0 +1,9 @@
+scene_to_test_img_files = {}
+scene_to_test_img_files['llff_fern']     = ['IMG_4026.JPG', 'IMG_4034.JPG', 'IMG_4042.JPG']
+scene_to_test_img_files['llff_flower']   = ['IMG_2962.JPG', 'IMG_2970.JPG', 'IMG_2978.JPG', 'IMG_2986.JPG', 'IMG_2994.JPG']
+scene_to_test_img_files['llff_fortress'] = ['IMG_1800.JPG', 'IMG_1808.JPG', 'IMG_1816.JPG', 'IMG_1824.JPG', 'IMG_1832.JPG', 'IMG_1840.JPG']
+scene_to_test_img_files['llff_horns']    = ['DJI_20200223_163016_842.jpg', 'DJI_20200223_163024_597.jpg', 'DJI_20200223_163033_432.jpg', 'DJI_20200223_163047_307.jpg', 'DJI_20200223_163055_437.jpg', 'DJI_20200223_163103_777.jpg', 'DJI_20200223_163201_633.jpg', 'DJI_20200223_163208_938.jpg']
+scene_to_test_img_files['llff_leaves']   = ['IMG_2997.JPG', 'IMG_3006.JPG', 'IMG_3014.JPG', 'IMG_3022.JPG']
+scene_to_test_img_files['llff_orchids']  = ['IMG_4467.JPG', 'IMG_4475.JPG', 'IMG_4483.JPG', 'IMG_4491.JPG']
+scene_to_test_img_files['llff_room']     = ['DJI_20200226_143850_006.JPG', 'DJI_20200226_143901_419.JPG', 'DJI_20200226_143912_008.JPG', 'DJI_20200226_143926_241.JPG', 'DJI_20200226_143938_168.JPG', 'DJI_20200226_143948_113.JPG']
+scene_to_test_img_files['llff_trex']     = ['DJI_20200223_163548_810.jpg', 'DJI_20200223_163557_660.jpg', 'DJI_20200223_163604_605.jpg', 'DJI_20200223_163611_160.jpg', 'DJI_20200223_163620_700.jpg', 'DJI_20200223_163639_916.jpg', 'DJI_20200223_163646_755.jpg']
